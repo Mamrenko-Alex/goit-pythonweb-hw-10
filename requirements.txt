@@ -6,3 +6,8 @@ pydantic
 python-jose[cryptography]
 python-multipart
 passlib[bcrypt]
+uvicorn
+python-dotenv
+cloudinary
+slowapi
+email-validator
